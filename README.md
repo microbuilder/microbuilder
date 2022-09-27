@@ -1,6 +1,6 @@
-- Tech Lead at [Linaro](https://www.linaro.org/) (focusing on IoT security, Cortex M)
-- Currently working on: [Confidential AI for MCUs](https://static.linaro.org/assets/ConfidentialAI-LinaroWhitePaper.pdf)
+- Tech Lead at [Linaro](https://www.linaro.org/) (mainly IoT security)
+- Currently working on: [Confidential AI for MCUs](https://github.com/microbuilder/zephyr_secure_inference)
 - Active in Zephyr RTOS
-  - Maintainer: ARM arch, Trusted Firmware-M integration
+  - Maintainer: Aarch32 (Arm), Trusted Firmware-M integration
   - Author: [Zephyr Scientific Library](https://github.com/zephyrproject-rtos/zscilib)
-- Interested in [sensor data processing pipelines](https://github.com/microbuilder/linaro_step)
+- Interested in [better data processing pipelines](https://github.com/microbuilder/linaro_step)
