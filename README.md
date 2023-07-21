@@ -3,7 +3,7 @@
   - Maintainer: Aarch32 (Arm), Trusted Firmware-M integration
   - Author: [Zephyr Scientific Library](https://github.com/zephyrproject-rtos/zscilib)
 - Recent Conference Talks:
+  - [Linaro Connect 2021: Essential Arm Cortex-M Debugging with GDB](https://resources.linaro.org/en/resource/MQ3H8gjNg4F6nMB8aZVt72)
   - [ZDS 2023: Boot to Cloud Security Considerations for IoT](https://www.youtube.com/watch?v=5KaekcHtBQc)
   - [ZDS 2022: X.509 Client Authentication in Zephyr](https://www.youtube.com/watch?v=8-PU9_ONSrY)
-  - [Confidential AI: Secure Data Processing Pipeline](https://resources.linaro.org/en/resource/kPgbJxx8LQcLaiPTWcSxyF)
-  - [Linaro Connect 2021: Essential Arm Cortex-M Debugging with GDB](https://resources.linaro.org/en/resource/MQ3H8gjNg4F6nMB8aZVt72)
+  - [Confidential AI Lightning Talk](https://resources.linaro.org/en/resource/6oEuqF1mmUFQfEBmWDomCC)
