@@ -1,5 +1,4 @@
 - Distinguished Engineer and Software Architect at [Analog Devices](https://www.analog.com)
-- Interested in IoT Security
 - Active in Zephyr RTOS
   - Maintainer: Aarch32 (Arm), Trusted Firmware-M integration
   - Author: [Zephyr Scientific Library](https://github.com/zephyrproject-rtos/zscilib)
